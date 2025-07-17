@@ -1,5 +1,3 @@
-// ✅ Version corrigée des deux fichiers dans une seule stack (si ECS et ALB sont dans la même stack)
-
 import * as cdk from 'aws-cdk-lib';
 import { Construct } from 'constructs';
 import * as ec2 from 'aws-cdk-lib/aws-ec2';
